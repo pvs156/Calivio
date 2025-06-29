@@ -1,78 +1,66 @@
-# Calivio - AI-Powered Sales Calls Assistant
+# Calivio - AI-Powered Sales Call Assistant
 
-A next-generation SaaS landing page for Calivio, an AI-powered sales calls assistant that revolutionizes sales conversations with real-time guidance, instant objection handling, and predictive deal scoring.
+**Transform your sales conversations with intelligent, real-time guidance that closes more deals.**
 
-## Features
+Calivio is a next-generation AI sales assistant that provides live conversation guidance, instant objection handling, and automated insights to help sales teams perform at their peak. Built for modern B2B sales organizations, Calivio integrates seamlessly into your existing workflow to boost conversion rates and accelerate revenue growth.
 
-- **Modern Design**: Glassmorphism UI with dark mode and glowing gradients
-- **Responsive**: Fully responsive design that works on all devices
-- **Animated**: Smooth animations and microinteractions using Framer Motion
-- **Premium Feel**: Futuristic, high-trust design perfect for B2B SaaS
-- **Performance**: Built with Next.js 14 and optimized for speed
+## 🚀 What Calivio Does
 
-## Tech Stack
+### Real-Time Sales Intelligence
+- **Live Conversation Guidance**: Get AI-powered suggestions and talking points during calls
+- **Instant Objection Handling**: Receive real-time responses to customer concerns and objections
+- **Deal Scoring**: AI analyzes conversation sentiment and predicts deal probability
+- **Performance Feedback**: Immediate coaching insights to improve your sales technique
 
-- **Framework**: Next.js 14 with App Router
-- **Styling**: Tailwind CSS with custom glassmorphism utilities
-- **Animations**: Framer Motion for smooth animations
-- **Icons**: Lucide React for consistent iconography
-- **TypeScript**: Full type safety throughout the application
+### Seamless Workflow Integration
+- **CRM Auto-Fill**: Automatically populate your CRM with call summaries and next steps
+- **Call Transcription**: Complete, searchable transcripts of every sales conversation
+- **Integration Ready**: Works with Salesforce, HubSpot, Zoom, Teams, and more
+- **Mobile Optimized**: Access insights on any device, anywhere
 
-## Getting Started
+## 💼 Built for Sales Teams
 
-1. Install dependencies:
-```bash
-npm install
-```
+**For Sales Reps:**
+- Close more deals with AI-powered conversation guidance
+- Handle objections confidently with instant response suggestions
+- Focus on building relationships while AI handles the details
 
-2. Run the development server:
-```bash
-npm run dev
-```
+**For Sales Managers:**
+- Track team performance with detailed analytics and insights
+- Identify coaching opportunities and best practices
+- Scale successful sales strategies across your entire team
 
-3. Open [http://localhost:3000](http://localhost:3000) in your browser
+**For Revenue Leaders:**
+- Increase conversion rates and shorten sales cycles
+- Gain visibility into pipeline quality and deal progression
+- Make data-driven decisions to optimize sales processes
 
-## Project Structure
+## 🔒 Enterprise-Ready Security
 
-```
-├── app/                 # Next.js App Router
-│   ├── globals.css     # Global styles and Tailwind imports
-│   ├── layout.tsx      # Root layout component
-│   └── page.tsx        # Main page component
-├── components/         # Reusable React components
-│   ├── Header.tsx      # Navigation header
-│   ├── Hero.tsx        # Hero section with CTA
-│   ├── Features.tsx    # Features showcase
-│   ├── HowItWorks.tsx  # Process explanation
-│   ├── Demo.tsx        # Demo video section
-│   ├── Integrations.tsx # Platform integrations
-│   ├── Security.tsx    # Security and compliance
-│   ├── WhyCalivio.tsx  # Benefits section
-│   ├── FAQ.tsx         # Frequently asked questions
-│   └── Footer.tsx      # Site footer
-├── tailwind.config.js  # Tailwind configuration
-└── package.json        # Project dependencies
-```
+Calivio is built with enterprise-grade security and compliance standards:
+- **SOC 2 Type II** certified infrastructure
+- **GDPR & CCPA** compliant data handling
+- **End-to-end encryption** for all conversations
+- **Role-based access controls** and audit trails
 
-## Customization
+## 🎯 Key Benefits
 
-The design system is built with Tailwind CSS and includes:
+- **30% increase** in conversion rates on average
+- **50% reduction** in call preparation time
+- **Real-time coaching** that scales across your entire team
+- **Automated documentation** that saves hours per week
+- **Predictive insights** that help prioritize high-value opportunities
 
-- Custom color palette for brand consistency
-- Glassmorphism utilities (`.glass`, `.glass-strong`)
-- Gradient text effects (`.gradient-text`)
-- Custom animations and transitions
-- Responsive breakpoints
+## 🌟 Why Choose Calivio
 
-## Deployment
+Unlike traditional sales tools that analyze conversations after the fact, Calivio provides **real-time intelligence when you need it most** - during the actual sales conversation. Our AI understands context, sentiment, and sales methodology to deliver personalized guidance that helps every rep perform like your top performer.
 
-The project is ready for deployment on Vercel, Netlify, or any other platform that supports Next.js.
+## 📞 Ready to Transform Your Sales Process?
 
-```bash
-npm run build
-npm start
-```
+Experience the future of sales conversations with Calivio's AI-powered assistant.
 
-## License
+**[Start Free Trial](mailto:hello@calivio.com)** | **[Schedule Demo](mailto:demo@calivio.com)** | **[Contact Sales](mailto:sales@calivio.com)**
 
-This project is proprietary and confidential. 
+---
+
+*Calivio - Where AI meets sales excellence.* 
